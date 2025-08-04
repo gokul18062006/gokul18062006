@@ -34,7 +34,7 @@
 > A real-time fraud detection tool using LSTM neural networks and REST API.  
 > 📊 Built with **Python**, **TensorFlow**, **Flask**, and **Streamlit**  
 > 💡 Features: anomaly detection, live API calls, visual dashboard  
-🔗 [GitHub Repo (Coming Soon)](#)
+
 
 ---
 
@@ -42,7 +42,6 @@
 > Interactive weather analytics dashboard with filters, slicers, and KPIs  
 > 📊 Built using **Power BI**, **Excel**, and **DAX**  
 > 💡 Features: temperature trends, humidity levels, regional comparisons  
-🔗 [GitHub Repo (Coming Soon)](#)
 
 ---
 
