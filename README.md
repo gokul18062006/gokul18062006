@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gokul P</h1>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=200&section=header&text=Hi%20👋,%20I'm%20Gokul%20P&fontSize=40&fontColor=ffffff&animation=twinkling" />
+</p>
+
 <h3 align="center">🚀 AI & Data Science Student | 💻 Developer | 📊 Analyst</h3>
 
 <p align="center">
@@ -29,8 +33,7 @@
 ### 🔐 AI-Powered Fraud Detection System
 > A real-time fraud detection tool using LSTM neural networks and REST API.  
 > 📊 Built with **Python**, **TensorFlow**, **Flask**, and **Streamlit**  
-> 💡 Features: anomaly detection, live API calls, visual dashboard
-
+> 💡 Features: anomaly detection, live API calls, visual dashboard  
 🔗 [GitHub Repo (Coming Soon)](#)
 
 ---
@@ -38,8 +41,7 @@
 ### ☁️ Weather Data Analysis Dashboard
 > Interactive weather analytics dashboard with filters, slicers, and KPIs  
 > 📊 Built using **Power BI**, **Excel**, and **DAX**  
-> 💡 Features: temperature trends, humidity levels, regional comparisons
-
+> 💡 Features: temperature trends, humidity levels, regional comparisons  
 🔗 [GitHub Repo (Coming Soon)](#)
 
 ---
@@ -63,8 +65,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokul18062006&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul18062006&theme=tokyonight" alt="Streak Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulp123&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulp123&theme=tokyonight" alt="Streak Stats" height="150"/>
 </p>
 
 ---
@@ -78,4 +80,9 @@
   <a href="mailto:gokulp1806offiicial@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
+</p>
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=120&section=footer"/>
 </p>
