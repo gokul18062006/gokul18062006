@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-🚀 AI & Data Science Student | 🤖 ML & NLP | 💻 Full Stack Developer | 📊 Data Analyst
+🚀 AI & Data Science Student | 🤖 AI Engineer
 </h3>
 
 <p align="center">
